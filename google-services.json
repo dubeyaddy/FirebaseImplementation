@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "928344454353",
+    "firebase_url": "https://advance-engine-333703-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "advance-engine-333703",
+    "storage_bucket": "advance-engine-333703.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928344454353:android:97028db0e704e03a0541f0",
+        "android_client_info": {
+          "package_name": "com.practiceapp.firebasesampleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928344454353-sdq5tlli6ab920c338ajvvg2uib19n6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFIiBF1iLqjnXGEmkhcd4Z9zekgSrIf2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928344454353-sdq5tlli6ab920c338ajvvg2uib19n6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928344454353:android:488c41312a3254190541f0",
+        "android_client_info": {
+          "package_name": "com.practiceapp.roomdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928344454353-sdq5tlli6ab920c338ajvvg2uib19n6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFIiBF1iLqjnXGEmkhcd4Z9zekgSrIf2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928344454353-sdq5tlli6ab920c338ajvvg2uib19n6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
